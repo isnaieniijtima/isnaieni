@@ -1,4 +1,4 @@
-# Hi, I'm [Isnaieni Ijtima' Amna Fitri] 👋
+# Hi, I'm Isnaieni Ijtima' Amna Fitri 👋
 
 I'm an Informatics Engineering graduate interested in Data Analytics and Business Intelligence.
 
